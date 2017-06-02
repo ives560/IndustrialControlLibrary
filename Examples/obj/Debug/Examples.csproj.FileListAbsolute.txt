@@ -1,0 +1,11 @@
+c:\users\ives5\documents\visual studio 2015\Projects\IndustrialControlLibrary\Examples\bin\Debug\Examples.exe.config
+c:\users\ives5\documents\visual studio 2015\Projects\IndustrialControlLibrary\Examples\bin\Debug\Examples.exe
+c:\users\ives5\documents\visual studio 2015\Projects\IndustrialControlLibrary\Examples\bin\Debug\Examples.pdb
+c:\users\ives5\documents\visual studio 2015\Projects\IndustrialControlLibrary\Examples\bin\Debug\IndustrialControlLibrary.dll
+c:\users\ives5\documents\visual studio 2015\Projects\IndustrialControlLibrary\Examples\bin\Debug\IndustrialControlLibrary.pdb
+c:\users\ives5\documents\visual studio 2015\Projects\IndustrialControlLibrary\Examples\obj\Debug\Examples.csprojResolveAssemblyReference.cache
+c:\users\ives5\documents\visual studio 2015\Projects\IndustrialControlLibrary\Examples\obj\Debug\Examples.Form1.resources
+c:\users\ives5\documents\visual studio 2015\Projects\IndustrialControlLibrary\Examples\obj\Debug\Examples.Properties.Resources.resources
+c:\users\ives5\documents\visual studio 2015\Projects\IndustrialControlLibrary\Examples\obj\Debug\Examples.csproj.GenerateResource.Cache
+c:\users\ives5\documents\visual studio 2015\Projects\IndustrialControlLibrary\Examples\obj\Debug\Examples.exe
+c:\users\ives5\documents\visual studio 2015\Projects\IndustrialControlLibrary\Examples\obj\Debug\Examples.pdb

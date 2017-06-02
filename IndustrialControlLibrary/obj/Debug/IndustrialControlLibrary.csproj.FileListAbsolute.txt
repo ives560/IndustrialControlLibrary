@@ -1,0 +1,12 @@
+c:\users\ives5\documents\visual studio 2015\Projects\IndustrialControlLibrary\IndustrialControlLibrary\bin\Debug\IndustrialControlLibrary.dll
+c:\users\ives5\documents\visual studio 2015\Projects\IndustrialControlLibrary\IndustrialControlLibrary\bin\Debug\IndustrialControlLibrary.pdb
+c:\users\ives5\documents\visual studio 2015\Projects\IndustrialControlLibrary\IndustrialControlLibrary\obj\Debug\IndustrialControlLibrary.csprojResolveAssemblyReference.cache
+c:\users\ives5\documents\visual studio 2015\Projects\IndustrialControlLibrary\IndustrialControlLibrary\obj\Debug\IndustrialControlLibrary.Thermometer.resources
+c:\users\ives5\documents\visual studio 2015\Projects\IndustrialControlLibrary\IndustrialControlLibrary\obj\Debug\IndustrialControlLibrary.csproj.GenerateResource.Cache
+c:\users\ives5\documents\visual studio 2015\Projects\IndustrialControlLibrary\IndustrialControlLibrary\obj\Debug\IndustrialControlLibrary.dll
+c:\users\ives5\documents\visual studio 2015\Projects\IndustrialControlLibrary\IndustrialControlLibrary\obj\Debug\IndustrialControlLibrary.pdb
+c:\users\ives5\documents\visual studio 2015\Projects\IndustrialControlLibrary\IndustrialControlLibrary\obj\Debug\IndustrialControlLibrary.SevenSegment.resources
+c:\users\ives5\documents\visual studio 2015\Projects\IndustrialControlLibrary\IndustrialControlLibrary\obj\Debug\IndustrialControlLibrary.SevenSegmentArray.resources
+c:\users\ives5\documents\visual studio 2015\Projects\IndustrialControlLibrary\IndustrialControlLibrary\obj\Debug\IndustrialControlLibrary.Led.resources
+C:\Users\ives5\Documents\Visual Studio 2015\Projects\IndustrialControlLibrary\IndustrialControlLibrary\obj\Debug\IndustrialControlLibrary.Knob.resources
+C:\Users\ives5\Documents\Visual Studio 2015\Projects\IndustrialControlLibrary\IndustrialControlLibrary\obj\Debug\IndustrialControlLibrary.RoundButton.resources
